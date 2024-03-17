@@ -22,7 +22,11 @@ torchinfo = "1.8.0"
 torchmetrics = "1.0.1"
 islp = "0.3.20"
 scipy = "^1.12.0"
+pygam = "0.8.0"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.3"
 
 [build-system]
 requires = ["poetry-core"]
