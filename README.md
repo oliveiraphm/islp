@@ -1,7 +1,7 @@
 # islp
 1) Clone o repositório
 ```bash
-git clone https://github.com/oliveiraphm/islp.git
+git clone https://github.com/oliveiraphm/islp_repo.git
 ``` 
 
 2) Acesse o repositório 
