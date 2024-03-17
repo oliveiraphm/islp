@@ -6,17 +6,17 @@ git clone https://github.com/oliveiraphm/islp_repo.git
 
 2) Acesse o repositório 
 ```bash 
-cd islp 
+cd islp_repo
 ```
 
 3) Instale a versão correta do Python
 ```bash 
-pyenv install 3.12.1
-pyenv local 3.12.1
+pyenv install 3.11.5
+pyenv local 3.11.5
 ```
 4) Configure o Poetry e para a versão do Python 3.12.1 e ative o ambiente virtual
 ```bash 
-poetry env use 3.12.1
+poetry env use 3.11.5
 poetry shell
 ```
 
